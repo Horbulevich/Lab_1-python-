@@ -1,0 +1,32 @@
+[
+    {
+        "text": "Зробити тест 1",
+        "completed": true,
+        "deadline": "2026-11-05"
+    },
+    {
+        "text": "підготувати звіт",
+        "completed": false,
+        "deadline": "2026-11-20"
+    },
+    {
+        "text": "записати практику за п'ятницю",
+        "completed": true,
+        "deadline": "2026-11-14"
+    },
+    {
+        "text": "прочитати 10 сторінок книги",
+        "completed": false,
+        "deadline": "2026-11-18"
+    },
+    {
+        "text": "доробити лаб. р №4",
+        "completed": false,
+        "deadline": "2026-11-22"
+    },
+    {
+        "text": "прочитати лекцію",
+        "completed": false,
+        "deadline": "2026-11-20"
+    }
+]
